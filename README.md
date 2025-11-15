@@ -27,14 +27,16 @@ A clean, fast, and modern way to store and retrieve your online resources.
 
 🧠 Skills & Tools
 
-JavaScript · TypeScript · React · Next.js · Node.js · Express · REST APIs · MongoDB · PostgreSQL · Docker · Git · Vercel · AWS
+JavaScript · Vue.js · Quasar · Node.js · Express · REST APIs · CouchDB · Nginx · Docker · Git · G.Cloud
+
+
 
 🌍 Connect
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/cristian-gherghel-it-specialist/)
 
-🎥 YouTube: SuperDev
+🎥 YouTube: [SuperDev](https://www.youtube.com/@superdev7279)
 
-📫 Reach me at: your.email@example.com
+📫 Reach me at: electronrecord@gmail.com
 
 💡 “Good code is like good writing — simple, expressive, and made to be read.”
